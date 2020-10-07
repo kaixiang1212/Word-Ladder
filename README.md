@@ -1,5 +1,5 @@
 # Word-Ladder
-Originally done for UNSW COMP6771 Assignment 1
+Originally done for UNSW COMP6771 19T2 Assignment 1
 
 A program to build word ladders leveraging the C++ standard containers `std::vector`, `std::queue`, and `std::set` to complete this task.
 
